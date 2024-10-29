@@ -12,3 +12,5 @@ dependencies:
   - r-rmarkdown
   - r-corrplot
   - r-tidyverse
+  - r-psych
+  - r-lavaan
