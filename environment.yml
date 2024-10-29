@@ -4,13 +4,13 @@ channels:
   - defaults
 dependencies:
   - r-base=4.2
-  - r-viridis
-  - r-extrafont
-  - r-ape
-  - r-cairo
+#  - r-viridis
+#  - r-extrafont
+ # - r-ape
+ # - r-cairo
   - r-knitr
   - r-rmarkdown
-  - r-corrplot
+ # - r-corrplot
   - r-tidyverse
   - r-psych
   - r-lavaan
