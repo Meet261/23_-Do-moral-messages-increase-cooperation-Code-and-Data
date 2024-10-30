@@ -6,7 +6,7 @@ Launch online [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks
 
 | **Serial Number** | **File Name**                          | **Dependencies**                                                                                             | **Reproducibility Status** | **Issue/Obstacle**                                                                                                                                                                   |
 |-------------------|----------------------------------------|--------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 23                | `01_data_prepare.R` | `r-base=4.2`, `r-viridis`, `r-extrafont`, `r-ape`, `r-cairo`, `r-knitr`, `r-rmarkdown`, `r-corrplot`, `r-tidyverse`, `r-psych`, `r-lavaan`                                 | Reproducible           | No issue.  |
+| 23                | `01_data_prepare.R` | `r-base=4.2`, `r-knitr`, `r-rmarkdown`, `r-tidyverse`, `r-psych`, `r-lavaan`                                 | Reproducible           | No issue.  |
 
 License: CC-By Attribution 4.0 International
 
